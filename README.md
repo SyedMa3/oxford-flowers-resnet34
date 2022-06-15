@@ -1,4 +1,4 @@
-# oxford-flowers-resnet30
+# oxford-flowers-resnet34
 
 Using a pretrained ResNet 34 and train on the Oxford Flowers dataset. Used image transforms.
 
